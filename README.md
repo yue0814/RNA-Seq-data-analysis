@@ -11,4 +11,12 @@ http://www.bioconductor.org/packages/devel/bioc/vignettes/DESeq2/inst/doc/DESeq2
 
 Here are some result figures.
 
-![alt text](https://github.com/yue0814/)
+![alt text](https://github.com/yue0814/RNA-Seq-data-analysis/blob/master/DEG2.PNG)
+
+![alt text](https://github.com/yue0814/RNA-Seq-data-analysis/blob/master/DEG3.PNG)
+
+![alt text](https://github.com/yue0814/RNA-Seq-data-analysis/blob/master/GOslimbarplot.PNG)
+
+![alt text](https://github.com/yue0814/RNA-Seq-data-analysis/blob/masterGOslimbarplot2.PNG)
+
+![alt text](https://github.com/yue0814/RNA-Seq-data-analysis/blob/master/sample_tree.PNG)
